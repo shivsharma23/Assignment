@@ -1,0 +1,14 @@
+C:\Users\vyomg\source\repos\Question8\Question8\bin\Debug\net6.0\Question8.exe
+C:\Users\vyomg\source\repos\Question8\Question8\bin\Debug\net6.0\Question8.deps.json
+C:\Users\vyomg\source\repos\Question8\Question8\bin\Debug\net6.0\Question8.runtimeconfig.json
+C:\Users\vyomg\source\repos\Question8\Question8\bin\Debug\net6.0\Question8.dll
+C:\Users\vyomg\source\repos\Question8\Question8\bin\Debug\net6.0\Question8.pdb
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.AssemblyInfoInputs.cache
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.AssemblyInfo.cs
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.csproj.CoreCompileInputs.cache
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.dll
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\refint\Question8.dll
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.pdb
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\Question8.genruntimeconfig.cache
+C:\Users\vyomg\source\repos\Question8\Question8\obj\Debug\net6.0\ref\Question8.dll
