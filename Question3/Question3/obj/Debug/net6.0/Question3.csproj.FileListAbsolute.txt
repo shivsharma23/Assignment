@@ -1,0 +1,14 @@
+C:\Users\vyomg\source\repos\Question3\Question3\bin\Debug\net6.0\Question3.exe
+C:\Users\vyomg\source\repos\Question3\Question3\bin\Debug\net6.0\Question3.deps.json
+C:\Users\vyomg\source\repos\Question3\Question3\bin\Debug\net6.0\Question3.runtimeconfig.json
+C:\Users\vyomg\source\repos\Question3\Question3\bin\Debug\net6.0\Question3.dll
+C:\Users\vyomg\source\repos\Question3\Question3\bin\Debug\net6.0\Question3.pdb
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.AssemblyInfoInputs.cache
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.AssemblyInfo.cs
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.csproj.CoreCompileInputs.cache
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.dll
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\refint\Question3.dll
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.pdb
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\Question3.genruntimeconfig.cache
+C:\Users\vyomg\source\repos\Question3\Question3\obj\Debug\net6.0\ref\Question3.dll
