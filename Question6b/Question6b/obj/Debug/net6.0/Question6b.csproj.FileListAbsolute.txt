@@ -1,0 +1,14 @@
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.AssemblyInfoInputs.cache
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.AssemblyInfo.cs
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.csproj.CoreCompileInputs.cache
+C:\Users\vyomg\source\repos\Question6b\Question6b\bin\Debug\net6.0\Question6b.exe
+C:\Users\vyomg\source\repos\Question6b\Question6b\bin\Debug\net6.0\Question6b.deps.json
+C:\Users\vyomg\source\repos\Question6b\Question6b\bin\Debug\net6.0\Question6b.runtimeconfig.json
+C:\Users\vyomg\source\repos\Question6b\Question6b\bin\Debug\net6.0\Question6b.dll
+C:\Users\vyomg\source\repos\Question6b\Question6b\bin\Debug\net6.0\Question6b.pdb
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.dll
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\refint\Question6b.dll
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.pdb
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\Question6b.genruntimeconfig.cache
+C:\Users\vyomg\source\repos\Question6b\Question6b\obj\Debug\net6.0\ref\Question6b.dll
